@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 #include <string.h>
+ /* a change is incorporated to understand the flow */
 
 void main()
 {
